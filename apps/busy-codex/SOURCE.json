@@ -1,12 +1,12 @@
 {
   "repository": "https://github.com/wowlocal/busy-codex",
-  "revision": "9058b39d5cb4e2532683ab94e672dee3d3524805",
+  "revision": "4d6c8dcde74df38f2bdef75bdb70383f9774ba99",
   "working_tree_changes": false,
   "generator": "scripts/build_gallery.py",
   "files": {
     "LICENSE": "41e9217958abde104076431eb88a0d406d26b9384f75cede965382e90d0a6d73",
     "README.md": "9c5500357a9d21de0714db438ede69fba33ee132b28e38f2137b15b49b4ee3ac",
-    "adapters/codex_status.py": "d7c9a0823dc8152f7e79778654bb38341797fd8fe10b365fa46387262193b676",
+    "adapters/codex_status.py": "e33f16e1384f37eef6f3b045ddcdc99350da18dfbc8e1a45a0b6da8aa9e25275",
     "ai_status.py": "a1d355d545d3670cb2ad78608abb641f43a5e0dc8ef3d4b755aea8f8c1917469",
     "app.py": "74cb8afdb1954239d27c7be9193d275b7e2eeeeb9d28b83117ade479ffe1f312",
     "assets/astra.anim": "f8e036b59e2ce59e9cb16124a1dc4849b911b7210947e0407127ed7f4202b818",
