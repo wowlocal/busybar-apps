@@ -1,14 +1,14 @@
 {
   "repository": "https://github.com/wowlocal/busy-codex",
-  "revision": "0947a6abce8d4091d2513f4a64d00a42c9afb480",
+  "revision": "a6525e900f2fbc14eda8d8810d1094ccd66f4409",
   "working_tree_changes": false,
   "generator": "scripts/build_gallery.py",
   "files": {
     "LICENSE": "41e9217958abde104076431eb88a0d406d26b9384f75cede965382e90d0a6d73",
-    "README.md": "8ec4619b816a3f6358e6221ab52be851ad09abff8e56b2ac90190fbdd60867cc",
+    "README.md": "89da8c5ba721e2461a590717e4d50acaf13f08bb7f63ac30d1142c6cc8c2d251",
     "adapters/codex_status.py": "4699b2ce2d44f1ee949b66b33d19c80a1da65a6a7728d266a05b8ea1ec1f72d7",
     "ai_status.py": "a1d355d545d3670cb2ad78608abb641f43a5e0dc8ef3d4b755aea8f8c1917469",
-    "app.py": "5ba5109c9710223a3a6acf90ac432d5668993a157107b61ee4eb34202a600109",
+    "app.py": "74cb8afdb1954239d27c7be9193d275b7e2eeeeb9d28b83117ade479ffe1f312",
     "assets/astra.anim": "f8e036b59e2ce59e9cb16124a1dc4849b911b7210947e0407127ed7f4202b818",
     "assets/done.anim": "aa9ac7ea9eb4ab490c7c8c9c72383d47ba2995429f5e1c361b3cbf8a8466b8fa",
     "assets/effort_clear.anim": "72408efe98b924fc4497678eda1835f2239d6ffed019be916361c2d997244c3a",
